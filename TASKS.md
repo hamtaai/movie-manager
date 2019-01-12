@@ -23,6 +23,12 @@
 ### General
 - https://github.com/jinzhu/configor
 - https://golang.org/pkg/encoding/json/
+- travis CI
+- dockerfile + docker-compose
+- code linters
+    - https://github.com/gojp/goreportcard/blob/master/Makefile
+    - go fmt ; go vet ; go fix ; go mod
+    - gometalinter
 
 ## Investigate
 ### Code Quality
